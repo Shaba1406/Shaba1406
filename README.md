@@ -23,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaba1406&" alt="shaba1406" /></p>
 
+[![@shaba_06's Holopin board](https://holopin.me/shaba_06)](https://holopin.io/@shaba_06)
