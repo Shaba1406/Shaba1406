@@ -25,3 +25,4 @@
 
 [![@shaba_06's Holopin board](https://holopin.me/shaba_06)](https://holopin.io/@shaba_06)
 
+[![Shaba06's GitHub | Stats](https://stats.quine.sh/Shaba06/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shaba06)
