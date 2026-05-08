@@ -41,6 +41,4 @@ Passionate Computer Science Engineer from India focused on building real-world a
 </a><p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p><a href="https://www.kali.org/tools/" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/kalilinux" alt="pentesting" width="40" height="40"/>
 </a>
-[![@shaba_06's Holopin board](https://holopin.me/shaba_06)](https://holopin.io/@shaba_06)
-
-[![Shaba06's GitHub | Stats](https://stats.quine.sh/Shaba06/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shaba06)
+[![An image of @shaba_06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaba_06)](https://holopin.io/@shaba_06)
