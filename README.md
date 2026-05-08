@@ -42,5 +42,3 @@ Passionate Computer Science Engineer from India focused on building real-world a
 <img src="https://cdn.simpleicons.org/kalilinux" alt="pentesting" width="40" height="40"/>
 </a>
 [![@shaba_06's Holopin board](https://holopin.me/shaba_06)](https://holopin.io/@shaba_06)
-
-[![@shaba_06's Holopin board](https://holopin.me/shaba_06)](https://holopin.io/@shaba_06)
