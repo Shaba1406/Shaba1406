@@ -1,17 +1,36 @@
 <h1 align="center">Hi 👋, I'm Shaba Zehra Pathan</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaba1406&label=Profile%20views&color=0e75b6&style=flat" alt="shaba1406" /> </p>
+<h3 align="center">
+💻 Software Engineer | 🌐 Full Stack Developer | 🐍 Python Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaba1406" alt="shaba1406" /></a> </p>
+<p align="center">
+Passionate Computer Science Engineer from India focused on building real-world applications and continuously improving development skills.
+</p>
 
-- 🌱 I’m currently learning **Web development and Ethical Hacking**
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shaba1406&label=Profile%20views&color=0e75b6&style=flat" alt="shaba1406" />
+</p>
 
-- 📫 How to reach me **shabazehra7711@gmail.com**
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=shaba1406&theme=algolia" alt="shaba1406" />
+</a>
+</p>
+
+- 🎓 Computer Science Engineering Student  
+- 💻 Building real-world development projects  
+- 🌐 Interested in Full Stack Development  
+- 🧠 Strong interest in problem solving and technology  
+- 📌 Skilled in Python, HTML, CSS, JavaScript & MySQL  
+- 📫 Reach me at **shabazehra7711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shaba-zehra-pathan-14a364224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaba zehra pathan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaba-zehra-pathan-14a364224/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaba zehra pathan" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
